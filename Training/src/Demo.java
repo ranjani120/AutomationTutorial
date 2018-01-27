@@ -75,7 +75,7 @@ public class Demo {
 		
 		
 		
-		//driver.quit();
+		driver.quit();
 		
 	}
 
