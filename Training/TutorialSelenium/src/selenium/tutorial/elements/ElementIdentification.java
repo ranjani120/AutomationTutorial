@@ -1,0 +1,10 @@
+package selenium.tutorial.elements;
+
+public class ElementIdentification {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Test");
+	}
+
+}
