@@ -1,0 +1,13 @@
+package selenium.tutorial.elements;
+
+public class ElementIdentification {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Test");
+		String chromedriverPath="E:\\Training_Automation\\Workspace\\drivers\\chromedriver.exe";
+		System.setProperty("webdriver.chrome.driver",chromedriverPath);
+		WebDriver driver = new ChromeDriver();
+	}
+
+}
